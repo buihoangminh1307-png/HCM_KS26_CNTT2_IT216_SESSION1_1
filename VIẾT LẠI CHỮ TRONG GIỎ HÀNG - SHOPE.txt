@@ -1,0 +1,20 @@
+VIẾT LẠI CHỮ TRONG GIỎ HÀNG - SHOPEEFOOD
+ 
+1. Nút CTA
+- Chữ hiện tại: Gửi dữ liệu
+- Lỗi: Từ ngữ kỹ thuật khô khan, không nói rõ là đặt hàng, không có tổng tiền.
+- Chữ mới: Đặt hàng - 88.000đ
+- Số ký tự: 18/20
+ 
+2. Nhắc ưu đãi ship
+- Chữ hiện tại: Bạn chọn chưa đủ món nên không được giảm phí giao hàng!
+- Lỗi: Giọng đổ lỗi cho khách, không nói còn thiếu bao nhiêu.
+- Chữ mới: Mua thêm 28.000đ để được giảm 15.000đ phí giao hàng nhé!
+- Số ký tự: 56/60
+ 
+3. Báo ví không đủ tiền
+- Chữ hiện tại: Lỗi 402: Payment_Declined. Giao dịch bị từ chối.
+- Lỗi: Dùng mã lỗi vô nghĩa, không giải thích lý do, không có lối ra.
+- Chữ mới: Ví không đủ tiền. Nạp thêm hoặc chọn cách thanh toán khác.
+- Số ký tự: 58/60
+ 
